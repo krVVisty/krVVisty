@@ -1,5 +1,3 @@
-## Hi there, I'm Adam 👋
-
 <!--
 **krVVisty/krVVisty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## Hi there, I'm Adam 👋
+
+I’m currently immersed in a 12-week intensive Software Development Bootcamp at Tech Educators, honing my skills in full-stack development.
+I spend my days building hands-on projects — from websites and interactive games to full-stack applications — while mastering HTML, CSS, JavaScript, React, Node.js, Express, SQL, and practical APIs, Git, testing, and deployment.
+
+🌱 Currently learning: Advanced JavaScript, React best practices, API integration, and full-stack project workflows.
+💬 Ask me about: Web development, coding projects, tech career paths, or productivity in learning new skills.
+📫 How to reach me: https://www.linkedin.com/in/adammarunowski/
+⚡ Fun fact: I love turning complex coding challenges into creative solutions.
