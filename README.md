@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 
 ## Hi there, I'm Adam 👋
 
-I’m currently immersed in a **12-week intensive Software Development Bootcamp** at **Tech Educators**, honing my skills in **full-stack development**.  
 I spend my days building **hands-on projects** — from websites and interactive games to full-stack applications — while mastering:  
 **HTML, CSS, JavaScript, React, Node.js, Express, SQL**, as well as practical **APIs, Git, testing, deployment, and cybersecurity basics**.
 
