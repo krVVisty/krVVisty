@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 I spend my days building **hands-on projects** — from websites and interactive games to full-stack applications — while mastering:  
 **HTML, CSS, JavaScript, React, Node.js, Express, SQL**, as well as practical **APIs, Git, testing, deployment, and cybersecurity basics**.
 
-- 🌱 **Currently learning:** Advanced JavaScript, React best practices, API integration, full-stack project workflows, and cybersecurity fundamentals.  
+- 🌱 **Currently learning:** JavaScript, React best practices, API integration, full-stack project workflows, and cybersecurity fundamentals.  
 - 💬 **Ask me about:** Web development, coding projects, cybersecurity, or productivity in learning new skills.  
 - 📫 **How to reach me:** [LinkedIn](https://www.linkedin.com/in/adammarunowski/)  
 - ⚡ **Fun fact:** I love turning complex coding challenges into creative solutions.
