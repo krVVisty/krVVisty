@@ -21,5 +21,5 @@ I spend my days building **hands-on projects** — from websites and interactive
 - 🌱 **Currently learning:** JavaScript, React best practices, API integration, full-stack project workflows, and cybersecurity fundamentals.  
 - 💬 **Ask me about:** Web development, coding projects, cybersecurity, or productivity in learning new skills.  
 - 📫 **How to reach me:** [LinkedIn](https://www.linkedin.com/in/adammarunowski/)  
-- ⚡ **Fun fact:** I love turning complex coding challenges into creative solutions.
+- ⚡ **Fun fact:** I love turning coding challenges into creative solutions.
 
